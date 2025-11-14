@@ -36,4 +36,4 @@ The tests performed demonstrated that the hybrid database approach combining Mon
 
 For future work, we intend to explore the integration of advanced technologies such as Artificial Intelligence to improve data analysis and validation in real-world scenarios.
 
---
+---
